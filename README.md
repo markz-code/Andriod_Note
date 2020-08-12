@@ -5,7 +5,10 @@
 
 ## 速查表
 
-> * Git常用命令
-> * Vim常用命令
-> * AndroidStudio常用命令
-> * Sublime Text常用命令
+> * Git
+> * Vim
+> * AndroidStudio
+> * Sublime Text
+> * Command Lines
+>   * https://zhuanlan.zhihu.com/p/33151558
+> * Markdown
