@@ -5,9 +5,11 @@
 
 ## 速查表
 ### AndroidStudio
+
 ### Git
-git.jpg
-### adb
+
+### Adb命令
+
 ### Vim
 Vim常见模式：
 
