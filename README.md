@@ -6,7 +6,7 @@
 ## 速查表
 ### [AndroidStudio](https://github.com/markz-code/Android_Note/blob/master/cheatsheets/androidstudio.txt)
 
-### [Git](https://github.com/markz-code/Android_Note/blob/master/cheatsheets/git.jpg)
+### [Git](https://github.com/markz-code/Android_Note/blob/master/cheatsheets/git.txt)
 
 ### [ADB](https://github.com/markz-code/Android_Note/blob/master/cheatsheets/adb.txt)
 
@@ -82,5 +82,5 @@ Vim基本操作：
 
 * **Tab键补全文件名**
 
-### Markdown
-[作业部落-语法提示](https://www.zybuluo.com/mdeditor#)
+### [Markdown](https://www.zybuluo.com/mdeditor#)
+### [Mac](https://support.apple.com/zh-cn/HT201236)
