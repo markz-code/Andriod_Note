@@ -4,11 +4,11 @@
 主要用来记录学习过程中用到的工具、问题
 
 ## 速查表
-### AndroidStudio
+### [AndroidStudio](https://github.com/markz-code/Android_Note/blob/master/cheatsheets/androidstudio.txt)
 
-### Git
+### [Git](https://github.com/markz-code/Android_Note/blob/master/cheatsheets/git.jpg)
 
-### Adb命令
+### [ADB](https://github.com/markz-code/Android_Note/blob/master/cheatsheets/adb.txt)
 
 ### Vim
 Vim常见模式：
