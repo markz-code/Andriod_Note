@@ -80,7 +80,23 @@ Vim基本操作：
 > cp -a /tmp/dir1 . 复制一个目录到当前工作目录   
 > cp -a dir1 dir2 复制一个目录  
 
+* **清屏**  
+> clear  || ctrl+l  
+
+* **翻页&内容过多**
+> Enter     向下n行，需要定义，默认为1行  
+> Ctrl+f    向下滚动一屏  
+> 空 键      向下滚动一屏  
+> Ctrl+b    返回上一屏  
+> =         输出当前行的行号  
+> :f        输出文件名和当前行的行号  
+> v         调用vi编辑器  
+> ! 命令     调用Shell，并执行命令  
+> q         退出more
+
 * **Tab键补全文件名**
 
-### [Markdown](https://www.zybuluo.com/mdeditor#)
+### [Markdown](https://www.zybuluo.com/mdeditor#)  
+换行-->>两个空格  
+
 ### [Mac](https://support.apple.com/zh-cn/HT201236)
