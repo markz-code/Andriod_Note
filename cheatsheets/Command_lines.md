@@ -29,6 +29,9 @@
 创建文件
 > touch readme.md 创建readme文件 
 
+* **open 命令**
+打开文件
+
 * **rm 命令**  
 [remove] 删除文件  
 > rm readme.md  删除readme文件  
